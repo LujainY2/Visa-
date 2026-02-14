@@ -11,3 +11,15 @@ xgboost
 catboost 
 pymango
 fastapi 
+from_root
+dill
+PyYAML
+evidently==0.2.8 
+uvicorn 
+jinja2 
+botocore
+boto3
+mypy-boto3-s3
+neuro_mf
+python-multipart 
+-e .
