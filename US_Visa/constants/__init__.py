@@ -5,7 +5,7 @@ DATABASE_NAME = "US_Visa"
 
 COLLECTION_NAME = "visa_data"
 
-MONGODB_URL_KEY = "mongodb+srv://lujainy527_db_user:M394KwAmAssvpbfe@cluster0.nxzpygl.mongodb.net/?appName=Cluster0"
+MONGODB_URL_KEY = "MONGODB_URL"
 
 TRAIN_FILE_NAME: str="train.csv"
 
