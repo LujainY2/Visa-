@@ -1,4 +1,4 @@
-````markdown
+markdown
 ## 🚀 Pipeline Execution
 
 This project follows an **MLOps pipeline architecture** where data is automatically fetched from **MongoDB**, processed, and prepared for machine learning.
@@ -11,7 +11,7 @@ Follow the steps below to run the pipeline.
 
 Before running the pipeline, set the MongoDB connection string as an **environment variable**.
 
-#### Linux / macOS
+#### Linux 
 
 ```bash
 export MONGODB_URL="mongodb+srv://<username>:<password>@cluster.mongodb.net/?appName=Cluster0"
