@@ -3,7 +3,7 @@
 
 This project follows an **MLOps pipeline architecture** where data is automatically fetched from **MongoDB**, processed, and prepared for machine learning.
 
-Follow the steps below to run the pipeline.
+run the pipeline.
 
 ---
 
@@ -41,11 +41,11 @@ python demo.py
 
 When the pipeline runs, it performs the following steps automatically:
 
-1. 🔌 Connects to **MongoDB Atlas**
-2. 📥 Extracts visa application data
-3. 🗂 Stores the dataset in the **Feature Store**
-4. ✂️ Splits the dataset into **Training and Testing sets**
-5. 💾 Saves artifacts for the next pipeline stages
+1.  Connects to **MongoDB Atlas**
+2.  Extracts visa application data
+3.  Stores the dataset in the **Feature Store**
+4.  Splits the dataset into **Training and Testing sets**
+5.  Saves artifacts for the next pipeline stages
 
 ---
 
