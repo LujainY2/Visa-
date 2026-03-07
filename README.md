@@ -68,12 +68,5 @@ artifact/
 Each pipeline run creates a **new timestamped artifact folder**, ensuring experiment reproducibility.
 
 ---
-
-### 📚 References
-
-* MongoDB Connection Strings
-  [https://www.mongodb.com/docs/manual/reference/connection-string/](https://www.mongodb.com/docs/manual/reference/connection-string/)
-
-* Python Environment Variables
-  [https://docs.python.org/3/library/os.html#os.environ](https://docs.python.org/3/library/os.html#os.environ)
+CI CD - AWS
 
