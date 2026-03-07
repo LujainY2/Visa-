@@ -1,4 +1,4 @@
-markdown
+
 ## 🚀 Pipeline Execution
 
 This project follows an **MLOps pipeline architecture** where data is automatically fetched from **MongoDB**, processed, and prepared for machine learning.
